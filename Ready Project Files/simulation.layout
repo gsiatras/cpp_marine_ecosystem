@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="GameGamestate.h" open="1" top="0" tabpos="5">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="HelpState.h" open="1" top="0" tabpos="7">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="Play.h" open="1" top="1" tabpos="4">
+		<Cursor position="6711" topLine="150" />
+	</File>
+	<File name="Ssprite.h" open="1" top="0" tabpos="1">
+		<Cursor position="346" topLine="9" />
+	</File>
+	<File name="functions.h" open="1" top="0" tabpos="3">
+		<Cursor position="111" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="839" topLine="0" />
+	</File>
+	<File name="nonplanktonic.h" open="1" top="0" tabpos="9">
+		<Cursor position="441" topLine="0" />
+	</File>
+	<File name="organism.h" open="1" top="0" tabpos="2">
+		<Cursor position="1277" topLine="0" />
+	</File>
+	<File name="plangkton.h" open="1" top="0" tabpos="8">
+		<Cursor position="85" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
